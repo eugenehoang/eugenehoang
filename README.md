@@ -1,4 +1,6 @@
 ## Hi there 👋
+ 🩵 I'm Eugene, a freshman at the university studying computer science.
+
 
 <!--
 **eugenehoang/eugenehoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
