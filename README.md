@@ -1,7 +1,7 @@
 ## Hi there 👋
- 🩵 I'm Eugene, a freshman at the university studying computer science.
-     This is my personal hub to archive my work from now on.
-     初めまして　よろしくお願いします。
+   -  I'm Eugene, a freshman at the university studying computer science.
+   -  This is my personal hub to archive my work from now on.
+   - 初めまして　よろしくお願いします。
 
 <!--
 **eugenehoang/eugenehoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
